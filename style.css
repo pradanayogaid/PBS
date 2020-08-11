@@ -722,12 +722,12 @@ footer.footer {
   }
 
   .produks ul {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
   }
 
   .produk1 {
-    width: 150px;
-    height: 150px;
+    width: 145px;
+    height: 145px;
   }
 
   .produk2 {
