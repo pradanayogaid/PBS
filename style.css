@@ -878,6 +878,9 @@ footer.footer {
     color: white;
     font-size: 0.8em;
   }
+  body {
+    overflow-x: hidden;
+  }
 }
 
 /* end ukuran mobile */
