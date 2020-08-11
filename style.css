@@ -654,6 +654,9 @@ footer.footer {
 
 /* ukuran mobile */
 @media (max-width: 576px) {
+    html {
+    overflow-x: hidden;
+  }
   .searchbox {
     display: none;
   }
@@ -877,9 +880,6 @@ footer.footer {
   .social-media a {
     color: white;
     font-size: 0.8em;
-  }
-  body {
-    overflow-x: hidden;
   }
 }
 
